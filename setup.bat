@@ -16,7 +16,7 @@ if exist "%USB_ROOT%ollama\ollama.exe" (
 
 echo.
 echo [2/3] Installing Python Dependencies...
-"%PYTHON_HOME%\python.exe" -m pip install chromadb langchain langchain-community langchain-ollama chainlit
+"%PYTHON_HOME%\python.exe" -m pip install chromadb langchain langchain-community langchain-ollama langchain-chroma chainlit
 
 echo.
 echo [3/3] Pulling AI Models (Internet Required)...
