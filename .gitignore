@@ -1,0 +1,3 @@
+*.pyc
+/ollama/*
+!/ollama/README.md
