@@ -2,7 +2,7 @@
 
 **A completely offline, local AI survival assistant.**
 
-The **Survival RAG Oracle** is a standalone chatbot designed to run on a standard gaming PC without any internet connection. It combines the reasoning power of modern AI (Llama 3.1) with a curated library of survival manuals, effectively acting as an interactive expert that you can carry in your pocket.
+The **Survival RAG Oracle** is a standalone chatbot designed to run on a standard gaming PC without any internet connection. It combines the reasoning power of modern AI (Mistral Nemo) with a curated library of survival manuals, effectively acting as an interactive expert that you can carry in your pocket.
 
 ### 🎯 Project Goal
 To provide a resilient, "knowledge-in-a-box" tool. Whether you are prepping for emergencies, camping off-grid, or just want a private AI assistant, this tool allows you to:
@@ -14,7 +14,8 @@ To provide a resilient, "knowledge-in-a-box" tool. Whether you are prepping for 
 *   **OS:** Windows 10 or 11
 *   **Hardware:** A PC with a dedicated GPU (NVIDIA GTX/RTX or AMD Radeon) recommended for speed. (at least 12 GB VRAM recommended)
     *   *Can run on CPU-only, but responses will be very slow.*
-*   **Space:** ~8 GB free space (mostly for the AI models).
+*   **Space:** ~14 GB free space (mostly for the AI models).
+    *   *Using a high-speed USB 3.0/3.1 flash drive is recommended for portability and exFat format is required to accommodate large files.*
 
 ## 🚀 Installation & Setup
 
@@ -42,7 +43,7 @@ A script is included to download the necessary AI brains and Python libraries fo
 2.  Wait for it to finish. It will:
     *   Check for the Ollama executable you just copied into the project.
     *   Install Python libraries (Chainlit, LangChain, etc.).
-    *   Download the **Llama 3.1** AI model.
+    *   Download the **Mistral Nemo** AI model.
     *   Download the **bge-m3** embedding model.
     *   *This step requires an internet connection.*
 
@@ -56,7 +57,7 @@ This is the main mode. The AI will answer questions using the survival manuals i
 3.  A browser window should open automatically to `http://localhost:8000`.
 4.  Start chatting!
 
-### Chat with Llama 3.1 (Pure LLM Mode)
+### Chat with Mistral Nemo (Pure LLM Mode)
 If you just want to talk to the raw AI model without the survival manual context retrieval in the terminal window, follow these steps:
 
 1.  Open the ollama folder in Terminal:
