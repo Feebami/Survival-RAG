@@ -19,7 +19,7 @@ To provide a resilient, "knowledge-in-a-box" tool. Whether you are prepping for 
 
 ## 🚀 Installation & Setup
 
-Follow these steps once to set up the system. After setup, no internet is required.
+Follow these steps once to set up the system. After setup, no internet is required. (30-60 minutes of dependency and model downloading required)
 
 ### 1. Download this Repository
 Click the green **Code** button above -> **Download ZIP**. Extract the folder to a location on your computer (e.g., `Documents\Survival_RAG` or your Flash Drive).
