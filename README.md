@@ -66,7 +66,7 @@ If you just want to talk to the raw AI model without the survival manual context
     *   `.\ollama.exe serve`
 3.  Keep the terminal open and open another terminal from the ollama folder.
 4.  Run this command to chat:
-    *   `.\ollama.exe run llama3.1`
+    *   `.\ollama.exe run mistral-nemo`
 
 ## ⚠️ Troubleshooting
 
@@ -107,7 +107,7 @@ If you are comfortable with the command line (Linux/macOS) and already have Pyth
 # Install Dependencies
 pip install -r requirements.txt
 # Pull Models
-ollama pull llama3.1
+ollama pull mistral-nemo
 ollama pull bge-m3
 ```
 

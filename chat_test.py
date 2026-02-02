@@ -9,7 +9,7 @@ from langchain_core.output_parsers import StrOutputParser
 # ---------------------------------------------------------
 VECTOR_STORE_PATH = "./chroma_db_bge"
 EMBEDDING_MODEL_NAME = "bge-m3"
-OLLAMA_MODEL = "llama3.1" 
+OLLAMA_MODEL = "mistral-nemo" 
 
 chat_history = deque(maxlen=10)  # Store last 5 questions and answers
 

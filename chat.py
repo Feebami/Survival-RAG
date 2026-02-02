@@ -12,7 +12,7 @@ from langchain_core.output_parsers import StrOutputParser
 # ---------------------------------------------------------
 base_dir = os.path.dirname(os.path.abspath(__file__))
 VECTOR_STORE_PATH = os.path.join(base_dir, "data", "chroma_db_bge")
-OLLAMA_MODEL = "llama3.1" 
+OLLAMA_MODEL = "mistral-nemo" 
 
 chat_history = deque(maxlen=20)  # Store last 20 messages
 
