@@ -31,7 +31,6 @@ async def on_chat_start():
     print("--- [DEBUG] Loading Embeddings... ---")
     embeddings = OllamaEmbeddings(
         model="bge-m3",
-        base_url="http://127.0.0.1:11434"
     )
 
     # B. Load VectorDB
@@ -39,23 +38,23 @@ async def on_chat_start():
     vectorstore = Chroma(
         persist_directory=VECTOR_STORE_PATH,
         embedding_function=embeddings,
-        collection_name="rag_corpus_bge"
+        collection_name="rag_corpus_bge",
+        collection_metadata={"hnsw:space": "cosine"}
     )
 
     # C. Create Retriever
     retriever = vectorstore.as_retriever(
-        search_type="mmr",
-        search_kwargs={"k": 5}
+        search_type="similarity",
+        search_kwargs={"k": 10}
     )
     cl.user_session.set("retriever", retriever)
 
     # D. Setup LLM
-    llm = ChatOllama(model=OLLAMA_MODEL, temperature=0, streaming=True, num_ctx=16_384)
+    llm = ChatOllama(model=OLLAMA_MODEL, temperature=0, streaming=True, num_ctx=8192)
 
     contextualize_template = """
         Given a chat history and the latest user question, formulate a standalone question that can be understood without the chat history and includes all necessary context to effectively answer the question. 
         Do NOT answer the question, just reformulate it if needed.
-        Based on the history and the new question, write a specific search query for a RAG corpus and LLM question answering.
         Chat History: {history}
         Question: {question}
     """
@@ -70,7 +69,7 @@ async def on_chat_start():
     # E. Create Prompt Template
     template = """
         You are a survival expert AI assistant. 
-        Use the following pieces of retrieved context to answer the question. 
+        Use the following pieces of retrieved context to help answer the question. 
         If you don't know the answer, just say that you don't know.
         Do not make up answers.
         Context: {context}

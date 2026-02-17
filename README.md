@@ -4,6 +4,13 @@
 
 The **Survival RAG Oracle** is a standalone chatbot designed to run on a standard gaming PC without any internet connection. It combines the reasoning power of modern AI (Mistral Nemo) with a curated library of survival manuals, effectively acting as an interactive expert that you can carry in your pocket.
 
+### 📸 Demo
+
+![Survival RAG Oracle Demo](demo.gif)
+
+*Interactive chat interface showing the AI responding to survival questions using the knowledge base.*
+
+
 ### 🎯 Project Goal
 To provide a resilient, "knowledge-in-a-box" tool. Whether you are prepping for emergencies, camping off-grid, or just want a private AI assistant, this tool allows you to:
 *   **Chat with a survival expert:** Ask questions like *"How do I start a fire with wet wood?"* or *"What plants are edible in North America?"*

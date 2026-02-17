@@ -1,3 +1,6 @@
 *.pyc
 /ollama/*
 !/ollama/README.md
+/.chainlit
+/.files
+chainlit.md

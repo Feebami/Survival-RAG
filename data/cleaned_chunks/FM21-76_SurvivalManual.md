@@ -1,4 +1,4 @@
-## CHAPTER 1 - INTRODUCTION
+# CHAPTER 1 - INTRODUCTION
 This manual is based entirely on the keyword SURVIVAL. The letters in this word can help guide you in your actions in any survival situation. Whenever faced with a survival situation, remember the word SURVIVAL.
 
 The following paragraphs expand on the meaning of each letter of the word survival. Study and remember what each letter signifies because you may some day have to make it work for you.
@@ -54,7 +54,7 @@ Practice basic survival skills during all training programs and exercises. Survi
 Develop a survival pattern that lets you beat the enemies of survival. This survival pattern must include food, water, shelter, fire, first aid, and signals placed in order of importance. For example, in a cold environment, you would need a fire to get warm; a shelter to protect you from the cold, wind, and rain or snow; traps or snares to get food; a means to signal friendly aircraft; and first aid to maintain health. If injured, first aid has top priority no matter what climate you are in.  
 Change your survival pattern to meet your immediate physical needs as the environment changes. As you read the rest of this manual, keep in mind the keyword SURVIVAL and the need for a survival pattern.
 
-## CHAPTER 2 - PSYCHOLOGY OF SURVIVAL
+# CHAPTER 2 - PSYCHOLOGY OF SURVIVAL
 It takes much more than the knowledge and skills to build shelters, get food, make fires, and travel without the aid of standard navigational devices to live successfully through a survival situation. Some people with little or no survival training have managed to survive life-threatening circumstances. Some people with survival training have not used their skills and died. A key ingredient in any survival situation is the mental attitude of the individual(s) involved. Having survival skills is important; having the will to survive is essential. Without a desk to survive, acquired skills serve little purpose and invaluable knowledge goes to waste.  
 There is a psychology to survival. The soldier in a survival environment faces many stresses that ultimately impact on his mind. These stresses can produce thoughts and emotions that, if poorly understood, can transform a confident, well-trained soldier into an indecisive, ineffective individual with questionable ability to survive. Thus, every soldier must be aware of and be able to recognize those stresses commonly associated with survival. Additionally, it is imperative that soldiers be aware of their reactions to the wide variety of stresses associated with survival. This chapter will identify and explain the nature of stress, the stresses of survival, and those internal reactions soldiers will naturally experience when faced with the stresses of a real-world survival situation. The knowledge you, the soldier, gain from this chapter and other chapters in this manual, will prepare you to come through the toughest times alive.
 
@@ -143,6 +143,7 @@ Through military training and life experiences, begin today to prepare yourself 
 People under stress have a potential to panic if they are not well-trained and not prepared psychologically to face whatever the circumstances may be. While we often cannot control the survival circumstances in which we find ourselves, it is within our ability to control our response to those circumstances. Learning stress management techniques can enhance significantly your capability to remain calm and focused as you work to keep yourself and others alive. A few good techniques to develop include relaxation skills, time management skills, assertiveness skills, and cognitive restructuring skills (the ability to control how you view a situation).  
 Remember, "the will to survive" can also be considered to be "the refusal to give up."
 
+# SURVIVAL PLANNING AND SURVIVAL KITS
 Survival planning is nothing more than realizing something could happen that would put you in a survival situation and, with that in mind, taking steps to increase your chances of survival. Thus, survival planning means preparation. Preparation means having survival items and knowing how to use them People who live in snow regions prepare their vehicles for poor road conditions. They put snow tires on their vehicles, add extra weight in the back for traction, and they carry a shovel, salt, and a blanket. Another example of preparation is finding the emergency exits on an aircraft when you board it for a flight. Preparation could also mean knowing your intended route of travel and familiarizing yourself with the area. Finally, emergency planning is essential.
 
 ## IMPORTANCE OF PLANNING
@@ -156,7 +157,7 @@ The environment is the key to the types of items you will need in your survival 
 In preparing your survival kit, select items you can use for more than one purpose. If you have two items that will serve the same function, pick the one you can use for another function. Do not duplicate items, as this increases your kit's size and weight.  
 Your survival kit need not be elaborate. You need only functional items that will meet your needs and a case to hold the items. For the case, you might want to use a Band-Aid box, a first aid case, an ammunition pouch, or another suitable case. This case should be--  
 - Water repellent or waterproof.
-- Suitable to accept varisized components.
+- Suitable to accept various sized components.
 - Easy to carry or attach to your body.
 - Durable.  
 In your survival kit, you should have--  
@@ -239,6 +240,7 @@ The food value of plants becomes more and more important if you are eluding the 
 ## Animal Foods
 Meat is more nourishing than plant food. In fact, it may even be more readily available in some places. However, to get meat, you need to know the habits of, and how to capture, the various wildlife. To satisfy your immediate food needs, first seek the more abundant and more easily obtained wildlife, such as insects, crustaceans, mollusks, fish, and reptiles. These can satisfy your immediate hunger while you are preparing traps and snares for larger game.
 
+# BASIC SURVIVAL MEDICINE
 In any situation, cleanliness is an important factor in preventing infection and disease. It becomes even more important in a survival situation. Poor hygiene can reduce your chances of survival.  
 A daily shower with hot water and soap is ideal, but you can stay clean without this luxury. Use a cloth and soapy water to wash yourself. Pay special attention to the feet, armpits, crotch, hands, and hair as these are prime areas for infestation and infection. If water is scarce, take an "air" bath. Remove as much of your clothing as practical and expose your body to the sun and air for at least 1 hour. Be careful not to sunburn.  
 If you don't have soap, use ashes or sand, or make soap from animal fat and wood ashes, if your situation allows. To make soap--  
@@ -765,6 +767,7 @@ If you have extra material, you can further decrease the midday temperature in t
 Another type of belowground shade shelter is of similar construction, except all sides are open to air currents and circulation. For maximum protection, you need a minimum of two layers of parachute material (Figure 5-15). White is the best color to reflect heat; the innermost layer should be of darker material.  
 Figure 5-15. Open desert shelter.
 
+# WATER PROCUREMENT
 Water is one of your most urgent needs in a survival situation. You can' t live long without it, especially in hot areas where you lose water rapidly through perspiration. Even in cold areas, you need a minimum of 2 liters of water each day to maintain efficiency.  
 More than three-fourths of your body is composed of fluids. Your body loses fluid as a result of heat, cold, stress, and exertion. To function effectively, you must replace the fluid your body loses. So, one of your first goals is to obtain an adequate supply of water.
 
@@ -878,6 +881,7 @@ To make a filtering system, place several centimeters or layers of filtering mat
 Figure 6-9.Water filtering Systems.  
 Remove the odor from water by adding charcoal from your fire. Let the water stand for 45 minutes before drinking it.
 
+# FIRECRAFT
 In many survival situations, the ability to start a fire can make the difference between living and dying. Fire can fulfill many needs. It can provide warmth and comfort. It not only cooks and preserves food, it also provides warmth in the form of heated food that saves calories our body normally uses to produce body heat. You can use fire to purify water, sterilize bandages, signal for rescue, and provide protection from animals. It can be a psychological boost by providing peace of mind and companionship. You can also use fire to produce tools and weapons.  
 Fire can cause problems, as well. The enemy can detect the smoke and light it produces. It can cause forest fires or destroy essential equipment. Fire can also cause burns carbon monoxide poisoning when used in shelters.  
 Remember weigh your need for fire against your need to avoid enemy detection.
@@ -975,6 +979,7 @@ Carry lighted punk, when possible.
 Be sure the fire is out before leaving camp.  
 Do not select wood lying on the ground. It may appear to be dry but generally doesn't provide enough friction.
 
+# FOOD PROCUREMENT
 After water, man's most urgent requirement is food. In contemplating virtually any hypothetical survival situation, the mind immediately turns to thoughts of food. Unless the situation occurs in an arid environment, even water, which is more important to maintaining body functions, will almost always follow food in our initial thoughts. The survivor must remember that the three essentials of survival--water, food, and shelter--are prioritized according to the estimate of the actual situation. This estimate must not only be timely but accurate as well. Some situations may well dictate that shelter precede both food and water.
 
 ## ANIMALS FOR FOOD
@@ -1202,7 +1207,7 @@ In cold climates, you can freeze and keep meat indefinitely. Freezing is not a m
 
 You can preserve meat by soaking it thoroughly in a saltwater solution. The solution must cover the meat. You can also use salt by itself. Wash off the salt before cooking.
 
-## CHAPTER 9 - SURVIVAL USE OF PLANTS
+# SURVIVAL USE OF PLANTS
 After having solved the problems of finding water, shelter, and animal food, you will have to consider the use of plants you can eat. In a survival situation you should always be on the lookout for familiar wild foods and live off the land whenever possible.  
 You must not count on being able to go for days without food as some sources would suggest. Even in the most static survival situation, maintaining health through a complete and nutritious diet is essential to maintaining strength and peace of mind.  
 Nature can provide you with food that will let you survive any ordeal, if you don't eat the wrong plant. You must therefore learn as much as possible beforehand about the flora of the region where you will be operating. Plants can provide you with medicines in a survival situation. Plants can supply you with weapons and raw materials to construct shelters and build fires. Plants can even provide you with chemicals for poisoning fish, preserving animal hides, and for camouflaging yourself and your equipment.  
@@ -1375,6 +1380,7 @@ Make insulation by fluffing up female cattail heads or milkweed down.
 Make insect repellents by applying the expressed juice of wild garlic or onion to the skin, by placing sassafras leaves in your shelter, or by burning or smudging cattail seed hair fibers.  
 Plants can be your ally as long as you use them cautiously. The key to the safe use of plants is positive identification whether you use them as food or medicine or in constructing shelters or equipment.
 
+# POISONOUS PLANTS
 Successful use of plants in a survival situation depends on positive identification. Knowing poisonous plants is as important to a survivor as knowing edible plants. Knowing the poisonous plants will help you avoid sustaining injuries from them.
 
 ## HOW PLANTS POISON
@@ -1431,7 +1437,7 @@ If you suspect plant poisoning, try to remove the poisonous material from the vi
 - Strychnine tree.  
 See Appendix C for photographs and descriptions of these plants.
 
-## CHAPTER 11 - DANGEROUS ANIMALS
+# DANGEROUS ANIMALS
 Animals rarely are as threatening to the survivor as the rest of the environment. Common sense tells the survivor to avoid encounters with lions, bears, and other large or dangerous animals. You should also avoid large grazing animals with horns, hooves, and great weight. Your actions may prevent unexpected meetings. Move carefully through their environment. Do not attract large predators by leaving food lying around your camp. Carefully survey the scene before entering water or forests.  
 Smaller animals actually present more of a threat to the survivor than large animals. To compensate for their size, nature has given many small animals weapons such as fangs and stingers to defend themselves. Each year, a few people are bitten by sharks, mauled by alligators, and attacked by bears. Most of these incidents were in some way the victim's fault. However, each year more victims die from bites by relatively small venomous snakes than by large dangerous animals. Even more victims die from allergic reactions to bee stings. For this reason, we will pay more attention to smaller and potentially more dangerous creatures. These are the animals you are more likely to meet as you unwittingly move into their habitat, or they slip into your environment unnoticed.  
 Keeping a level head and an awareness of your surroundings will keep you alive if you use a few simple safety procedures. Do not let curiosity and carelessness kill or injure you.
@@ -1578,6 +1584,7 @@ The subtropical and tropical cone shells ( Conidae species) have a venomous harp
 
 The auger shell or terebra ( Terebridae species) are much longer and thinner than the cone shells, but can be nearly as deadly as the cone shells. They are found in temperate and tropical seas. Those in the Indian and Pacific oceans have a more toxic venom in their stinging barb. Do not eat these snails, as their flesh may be poisonous.
 
+# FIELD-EXPEDIENT WEAPONS, TOOLS, AND EQUIPMENT
 As a soldier you know the importance of proper care and use of your weapons, tools, and equipment. This is especially true of your knife. You must always keep it sharp and ready to use. A knife is your most valuable tool in a survival situation. Imagine being in a survival situation without any weapons, tools, or equipment except your knife. It could happen! You might even be without a knife. You would probably feel helpless, but with the proper knowledge and skills, you can easily improvise needed items.  
 In survival situations, you may have to fashion any number and type of field-expedient tools and equipment to survive. Examples of tools and equipment that could make your life much easier are ropes, rucksacks, clothes, nets, and so on.  
 Weapons serve a dual purpose. You use them to obtain and prepare food and to provide self-defense. A weapon can also give you a feeling of security and provide you with the ability to hunt on the move.
@@ -1686,6 +1693,7 @@ You can make pots from turtle shells or wood. As described with bowls, using hot
 
 Make water bottles from the stomachs of larger animals. Thoroughly flush the stomach out with water, then tie off the bottom. Leave the top open, with some means of fastening it closed.
 
+# DESERT SURVIVAL
 To survive and evade in arid or desert areas, you must understand and prepare for the environment you will face. You must determine your equipment needs, the tactics you will use, and how the environment will affect you and your tactics. Your survival will depend upon your knowledge of the terrain, basic climatic elements, your ability to cope with these elements, and your will to survive.
 
 ## TERRAIN
@@ -1793,7 +1801,7 @@ There are several hazards unique to desert survival. These include insects, snak
 Insects of almost every type abound in the desert. Man, as a source of water and food, attracts lice, mites, wasps, and flies. They are extremely unpleasant and may carry diseases. Old buildings, ruins, and caves are favorite habitats of spiders, scorpions, centipedes, lice, and mites. These areas provide protection from the elements and also attract other wild-life. Therefore, take extra care when staying in these areas. Wear gloves at all times in the desert. Do not place your hands anywhere without first looking to see what is there. Visually inspect an area before sitting or lying down. When you get up, shake out and inspect your boots and clothing. All desert areas have snakes. They inhabit ruins, native villages, garbage dumps, caves, and natural rock outcropping that offer shade. Never go barefoot or walk through these areas without carefully inspecting them for snakes. Pay attention to where you place your  
 feet and hands. Most snakebites result from stepping on or handling snakes. Avoid them. Once you see a snake, give it a wide berth.
 
-## CHAPTER 14 - TROPICAL SURVIVAL
+# TROPICAL SURVIVAL
 Most people think of the tropics as a huge and forbidding tropical rain forest through which every step taken must be hacked out, and where every inch of the way is crawling with danger. Actually, over half of the land in the tropics is cultivated in some way.  
 A knowledge of field skills, the ability to improvise, and the application of the principles of survival will increase the prospects of survival. Do not be afraid of being alone in the jungle; fear will lead to panic. Panic will lead to exhaustion and decrease your chance of survival.  
 Everything in the jungle thrives, including disease germs and parasites that breed at an alarming rate. Nature will provide water, food, and plenty of materials to build shelters.  
@@ -1924,7 +1932,7 @@ There are an almost unlimited number of edible plants from which to choose. Unle
 
 The proportion of poisonous plants in tropical regions is no greater than in any other area of the world. However, it may appear that most plants in the tropics are poisonous because of the great density of plant growth in some tropical areas. See Appendix C.
 
-## CHAPTER 15 - COLD WEATHER SURVIVAL
+# COLD WEATHER SURVIVAL
 One of the most difficult survival situations is a cold weather scenario. Remember, cold weather is an adversary that can be as dangerous as an enemy soldier. Every time you venture into the cold, you are pitting yourself against the elements. With a little knowledge of the environment, proper plans, and appropriate equipment, you can overcome the elements. As you remove one or more of these factors, survival becomes increasingly difficult. Remember, winter weather is highly variable. Prepare yourself to adapt to blizzard conditions even during sunny and clear weather.  
 Cold is a far greater threat to survival than it appears. It decreases your ability to think and weakens your will to do anything except to get warm. Cold is an insidious enemy; as it numbs the mind and body, it subdues the will to survive.  
 Cold makes it very easy to forget your ultimate goal--to survive.
@@ -2034,7 +2042,7 @@ It is very important to relieve yourself when needed. Do not delay because of th
 
 Insect bites can become infected through constant scratching. Flies can carry various disease-producing germs. To prevent insect bites, use insect repellent, netting, and wear proper clothing. See Chapter 11 for information on insect bites and Chapter 4 for treatment.
 
-## SHELTERS
+# SHELTERS
 Your environment and the equipment you carry with you will determine the type of shelter you can build. You can build shelters in wooded areas, open country, and barren areas. Wooded areas usually provide the best location, while barren areas have only snow as building material. Wooded areas provide timber for shelter construction, wood for fire, concealment from observation, and protection from the wind.  
 Note: In extreme cold, do not use metal, such as an aircraft fuselage, for shelter. The metal will conduct away from the shelter what little heat you can generate.  
 Shelters made from ice or snow usually require tools such as ice axes or saws. You must also expend much time and energy to build such a shelter. Be sure to ventilate an enclosed shelter, especially if you intend to build a fire in it. Always block a shelter's entrance, if possible, to keep the heat in and the wind out. Use a rucksack or snow block. Construct a shelter no larger than needed. This will reduce the amount of space to heat. A fatal error in cold weather shelter construction is making the shelter so large that it steals body heat rather than saving it. Keep shelter space small.  
@@ -2170,7 +2178,7 @@ Birds and insects fly lower to the ground than normal in heavy, moisture-laden a
 
 Slow-moving or imperceptible winds and heavy, humid air often indicate a low-pressure front. Such a front promises bad weather that will probably linger for several days. You can "smell" and "hear" this front. The sluggish, humid air makes wilderness odors more pronounced than during high-pressure conditions. In addition, sounds are sharper and carry farther in low-pressure than high-pressure conditions.
 
-## CHAPTER 16 - SEA SURVIVAL
+# SEA SURVIVAL
 Perhaps the most difficult survival situation to be in is sea survival. Short-or long-term survival depends upon rations and equipment available and your ingenuity. You must be resourceful to survive.  
 Water covers about 75 percent of the earth's surface, with about 70 percent being oceans and seas. You can assume that you will sometime cross vast expanses of water. There is always the chance that the plane or ship you are on will become crippled by such hazards as storms, collision, fire, or war.
 
@@ -2474,6 +2482,7 @@ These are common and can cause painful injuries when stepped on or touched. They
 
 This animal is an important food source in the Indo-Pacific regions. Use them whole after evisceration or remove the five muscular strips that run the length of its body. Eat them smoked, pickled, or cooked.
 
+# EXPEDIENT WATER CROSSINGS
 In a survival situation, you may have to cross a water obstacle. It may be in the form of a river, a stream, a lake, a bog, quicksand, quagmire, or muskeg. Even in the desert, flash floods occur, making streams an obstacle. Whatever it is, you need to know how to cross it safely.
 
 ## RIVERS AND STREAMS
@@ -2576,7 +2585,7 @@ Some water areas you must cross may have underwater and floating plants that wil
 The mangrove swamp is another type of obstacle that occurs along tropical coastlines. Mangrove trees or shrubs throw out many prop roots that form dense masses. To get through a mangrove swamp, wait for low tide. If you are on the inland side, look for a narrow grove of trees and work your way seaward through these. You can also try to find the bed of a waterway or creek through the trees and follow it to the sea. If you are on the seaward side, work inland along streams or channels. Be on the lookout for crocodiles that you find along channels and in shallow water. If there are any near you, leave the water and scramble over the mangrove roots. While crossing a mangrove swamp, it is possible to gather food from tidal pools or tree roots.  
 To cross a large swamp area, construct some type of raft.
 
-## CHAPTER 18 - FIELD-EXPEDIENT DIRECTION FINDING
+# FIELD-EXPEDIENT DIRECTION FINDING
 In a survival situation, you will be extremely fortunate if you happen to have a map and compass. If you do have these two pieces of equipment, you will most likely be able to move toward help. If you are not proficient in using a map and compass, you must take the steps to gain this skill.  
 There are several methods by which you can determine direction by using the sun and the stars. These methods, however, will give you only a general direction. You can come up with a more nearly true direction if you know the terrain of the territory or country.  
 You must learn all you can about the terrain of the country or territory to which you or your unit may be sent, especially any prominent features or landmarks. This knowledge of the terrain together with using the methods explained below will let you come up with fairly true directions to help you navigate.
@@ -2622,6 +2631,7 @@ Wind direction may be helpful in some instances where there are prevailing direc
 Recognizing the differences between vegetation and moisture patterns on north- and south-facing slopes can aid in determining direction. In the northern hemisphere, north-facing slopes receive less sun than  
 south-facing slopes and are therefore cooler and damper. In the summer, north-facing slopes retain patches of snow. In the winter, the trees and open areas on south-facing slopes are the first to lose their snow, and ground snowpack is shallower.
 
+# SIGNALING TECHNIQUES
 One of your first concerns when you find yourself in a survival situation is to communicate with your friends or allies. Generally, communication is the giving and receiving of information. As a survivor, you must get your rescuer's attention first, and second, send a message your rescuer understands. Some attention-getters are man-made geometric patterns such as straight lines, circles, triangles, or X's displayed in uninhabited areas; a large fire or flash of light; a large, bright object moving slowly; or contrast, whether from color or shadows. The type of signal used will depend on your environment and the enemy situation.
 
 ## APPLICATION
@@ -2731,6 +2741,7 @@ If you can contact a friendly aircraft with a radio, guide the pilot to your loc
 - Any remarks such as medical aid or other specific types of help needed immediately.  
 Simply because you have made contact with rescuers does not mean you are safe. Follow instructions and continue to use sound survival and evasion techniques until you are actually rescued.
 
+# SURVIVAL MOVEMENT IN HOSTILE AREAS
 The "rescue at any cost" philosophy of previous conflicts is not likely to be possible in future conflicts. Our potential adversaries have made great progress in air defense measures and radio direction finding (RDF) techniques. We must assume that U.S. military forces trapped behind enemy lines in future conflicts may not experience quick recovery by friendly elements. Soldiers may have to move for extended times and distances to places less threatening to the recovery forces. The soldier will not likely know the type of recovery to expect. Each situation and the available resources determine the type of recovery possible. Since no one can be absolutely sure until the recovery effort begins, soldiers facing a potential cutoff from friendly forces should be familiar with all the possible types of recovery, their related problems, and their responsibilities to the recovery effort. Preparation and training can improve the chances of success.
 
 Preparation is a requirement for all missions. When planning, you must consider how to avoid capture and return to your unit. Contingency plans must be prepared in conjunction with unit standing operating procedures (SOPs). Courses of action you or your unit will take must also be considered.
@@ -2838,7 +2849,7 @@ Once you have spotted a patrol, remain in position and, if possible, allow the p
 If you have nothing white, an article of clothing will suffice to draw attention. If the distance is greater than 50 meters, a recon patrol may avoid contact and bypass your position. If the distance is less than 25 meters, a patrol member may react instantly by firing a fatal shot.  
 It is crucial, at the time of contact, that there is enough light for the patrol to identify you as an American. Whatever linkup technique you decide to use, use extreme caution. From the perspective of the friendly patrol or friendly personnel occupying a perimeter, you are hostile until they make positive identification.
 
-## CHAPTER 21 - CAMOUFLAGE
+# CAMOUFLAGE
 In a survival situation, especially in a hostile environment, you may find it necessary to camouflage yourself, your equipment, and your movement. It may mean the difference between survival and capture by the enemy. Camouflage and movement techniques, such as stalking, will also help you get animals or game for food using primitive weapons and skills.
 
 When camouflaging yourself, consider that certain shapes are particular to humans. The enemy will look for these shapes. The shape of a hat, helmet, or black boots can give you away. Even animals know and run from the shape of a human silhouette. Break up your outline by placing small amounts of vegetation from the surrounding area in your uniform, equipment, and headgear. Try to reduce any shine from skin or equipment. Blend in with the surrounding colors and simulate the texture of your surroundings.
@@ -2895,6 +2906,7 @@ To stalk in the prone position, you do a low, modified push-up on your hands and
 Before stalking an animal, select the best route. If the animal is moving, you will need an intercepting route. Pick a route that puts objects between you and the animal to conceal your movement from it. By positioning yourself in this way, you will be able to move faster, until you pass that object. Some objects, such as large rocks and trees, may totally conceal you, and others, such as small bushes and grass, may only partially conceal you. Pick the route that offers the best concealment and requires the least amount of effort.  
 Keep your eyes on the animal and stop when it looks your way or turns its ears your way, especially if it suspects your presence. As you get close, squint your eyes slightly to conceal both the light-dark contrast of the whites of the eyes and any shine from your eyes. Keep your mouth closed so that the animal does not see the whiteness or shine of your teeth.
 
+# CONTACT WITH PEOPLE
 Some of the best and most frequently given advice, when dealing with local peoples, is for the survivor to accept, respect, and adapt to their ways. Thus, "when in Rome, do as the Romans do." This is excellent advice, but there are several considerations involved in putting this advice into practice.
 
 ## CONTACT WITH LOCAL PEOPLE
@@ -2915,6 +2927,7 @@ If you make any promises, keep them. Respect personal property and local customs
 ## CHANGES TO POLITICAL ALLEGIANCE
 In today's world of fast-paced international politics, political attitudes and commitments within nations are subject to rapid change. The population of many countries, especially politically hostile countries, must not be considered friendly just because they do not demonstrate open hostility. Unless briefed to the contrary; avoid all contact with such people.
 
+# SURVIVAL IN MAN-MADE HAZARDS
 Nuclear, chemical, and biological weapons have become potential realities on any modern battlefield. Recent experience in Afghanistan, Cambodia, and other areas of conflict has proved the use of chemical and biological weapons (such as mycotoxins). The warfighting doctrine of the NATO and Warsaw Pact nations addresses the use of both nuclear and chemical weapons. The potential use of these weapons intensifies the problems of survival because of the serious dangers posed by either radioactive fallout or contamination produced by persistent biological or chemical agents.  
 You must use special precautions if you expect to survive in these man-made hazards. If you are subjected to any of the effects of nuclear, chemical, or biological warfare, the survival procedures recommended in this chapter may save your life. This chapter presents some background information on each type of hazard so that you may better understand the true nature of the hazard. Awareness of the hazards, knowledge of this chapter, and application of common sense should keep you alive.
 

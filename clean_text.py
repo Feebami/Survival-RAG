@@ -31,7 +31,6 @@ def reconstruct_chunk(doc):
 
 def process_splits(splits, file_name):
     # PASS 2: Merge Small Chunks
-    # We work on a list of Documents directly so we can merge metadata if needed
     processed_splits = splits[:] 
 
     i = 0
@@ -71,32 +70,21 @@ def process_splits(splits, file_name):
             # EXECUTE MERGE
             if merge_direction == 'left':
                 # Merge CURRENT into LEFT
-                # We append current content to left neighbor's content
-                # (Simple text merge; you might want to strip headers from the second part)
                 processed_splits[left_index].page_content += "\n\n" + current_doc.page_content
                 
                 # Remove current node
                 processed_splits.pop(i)
-                # Adjust index: we removed 'i', so next iteration checks the new node at 'i' (originally i+1)
-                # But since we merged backward, the 'left' node grew. We usually don't re-check the 'left' node immediately 
-                # unless we want recursive merging. Let's decrement to re-check the 'left' node just in case it's still small.
+                # Adjust index
                 i -= 1 
                 
             elif merge_direction == 'right':
                 # Merge CURRENT into RIGHT
-                # We prepend current content to right neighbor
                 processed_splits[right_index].page_content = current_doc.page_content + "\n\n" + processed_splits[right_index].page_content
-                
-                # If you want to keep the headers of the "main" (larger) chunk, 
-                # or the first chunk, you have to decide here. 
-                # Usually keeping the first chunk's metadata is safer for flow.
-                # We keep 'current' metadata if it's the start of the section.
                 processed_splits[right_index].metadata.update(current_doc.metadata)
 
                 # Remove current node
                 processed_splits.pop(i)
-                # Don't increment i; the node at 'i' is now the *new* merged node (previously right).
-                # We want to check this new node in the next iteration.
+                # Don't increment i
                 continue
                 
         # Move to next chunk

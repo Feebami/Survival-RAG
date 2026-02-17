@@ -1,4 +1,4 @@
-## U.S. Navy SEALs
+# U.S. Navy SEALs
 I've spent my adult life as a Navy SEAL, preparing for and dealing with the most dangerous situations imaginable.  
 From 1962, when the first SEAL teams were commissioned, to the present, SEALs have distinguished themselves as being individually reliable, collectively disciplined, and highly skilled. Because of the dangers inherent in what we do, prospective SEALs go through what is considered by military experts to be the toughest training in the world-Basic Underwater Demolition SEAL Training (BUD/S).  
 BUD/S is a six-month SEAL training course held at the Naval Special Warfare Training Center in Coronado, California, which starts with five weeks of indoctrination and pre-Training. Following that, all trainees go through three phases of BUD/S. The first phase is by far the toughest and consists of eight weeks of basic conditioning, with a grueling 'hell week' in the middle-which is five days and nights of continuous training on a maximum of four hours of sleep.  
@@ -142,8 +142,7 @@ Coronado, Calif-A Special Warfare Combatant-craft Crewman (SWCC) candidate from 
 Morgan analyzed soldiers' heart rates right before they went into mock battle-while they were suited up in combat gear, waiting for a buzzer to ring that would send them running into a building to 'neutralize' (kill) the enemy and rescue hostages. (They use 'simunitions,' simulated ammunition) The ones with metronomic heartbeats, Morgan concluded, neutralized more of the enemy and shot at fewer hostages and other non-threats.  
 But he also found that the metronomic effect is usually associated with early heart disease and even sudden death. Apparently the same body chemistry that allows people to survive under high stress does not translate into optimal heart health past the age of fifty. But without it, these elite forces might never have survived that long.
 
-## SEAL/SERE TRAINING
-2  
+# THE ELEMENTS OF SURVIVAL
 'We all knew there was just one way to improve our odds for survival: train, train, train. Sometimes, if your training is properly intense, it will kill you. More often-much, much more often-it will save your life.'
 
 Why do some people with little or no survival training manage to prevail in life-threatening circumstances, while others with survival training die? The answer is mental fortitude, or the will to survive.  
@@ -386,8 +385,7 @@ to prepare participants for their unique potential survival difficulties, captiv
 The military services of many nations recognize the need to prepare their high-risk operators for the possibility of captivity and provide training for them. I have participated in several of these training programs and, without question, they are staffed with talented instructors who provide excellent training. All of these training programs strive to give the best possible preparation to their students. Those who are placed in harm's way in the service of their nations must be prepared. With minimal modification and staff training, these excellent programs can be even more effective. Those of us  
 involved in the profession of survival training should constantly seek ways to improve students' preparation. Incorporating these empirically proven principals in a resistance-specific application of stress inoculation training will significantly improve a captive's ability to survive. The result will be optimum survival resilience.
 
-## THE ELEMENTS OF SURVIVAL
-3  
+# JUNGLE SURVIVAL
 'We shall draw from the heart of suffering itself the means of inspiration and survival.'  
 -Winston Churchill  
 - Tiger  
@@ -682,8 +680,7 @@ The two Frenchman were also badly equipped, with only one lighter between them a
 A simple fishing kit would have kept them supplied with readily available, protein-rich food.  
 In the end it was their will to survive that got them through.
 
-## JUNGLE SURVIVAL
-4  
+# MOUNTAIN AND ARCTIC SURVIVAL
 'It is not the mountains we conquer, it is ourselves.'
 
 Being at high altitudes under adverse condition creates unique issues for all aspects of survival, from movement to health to dealing with injuries.  
@@ -896,6 +893,7 @@ If you're lost, it's usually best to follow rivers downstream, as this will usua
 In addition to the extremely low temperatures, upland areas in particular can be subject to very strong arctic winds. Inhaling cold air can actually burn the lungs and cause hemorrhaging. To reduce the risk of this happening, learn to control your breathing by exhaling completely but inhaling slowly and shallowly at first until your lungs build up some resistance to the cold. Controlling your breathing can also help you focus and remain calm during stressful conditions. Remember that a rapid intake of subzero air can cause considerable damage to your lungs.  
 Alaska-author and his team breaking down camp
 
+# Desert Survival
 'A desert is a place without expectation.'
 
 Deserts are one of the most hostile human environments on the planet. The extreme heat and aridness make desert survival extremely challenging. Add other factors, both physical and psychological, and conditions can be unbearable.  
@@ -1241,7 +1239,7 @@ He even tried to eat one of the cockroaches that had invaded the little mud shel
 end of my shelter within two seconds. I didn't even manage to chew on him in the end-he was spat out before he sucked his last breath.'  
 Despite eventually losing half of his body weight, Ricky Megee survived an incredible ten weeks. He did so by instinctively solving the basic requirements of water, food, and shelter-and adopting a survival mind-set that pulled him through.
 
-## DESERT SURVIVAL
+# Survival at Sea
 'Success is not final, failure is not fatal. It is the courage to continue that counts.'
 
 Water covers approximately seventy-five percent of the earth's surface. Seventy percent of that is made up of seas and oceans. Assuming you will cross these vast expanses of water in your lifetime, there's always a chance that a crippled boat or aircraft will make you lost at sea.  
@@ -1456,7 +1454,7 @@ gorged themselves on birds, fish, and vegetation. Within a week they had exhaust
 Three men-William Wright, Seth Weeks, and Thomas Chapple-opted to stay behind on Henderson. The remaining Essex crewmen resumed their journey, but within three days had exhausted the fish and birds they had collected for the voyage, leaving only a small reserve of bread salvaged from the Essex. One by one, the men began to die.  
 By the time the last of the eight survivors were rescued on April 5, 1821, the corpses of seven fellow sailors had been consumed. All eight returned to the sea within months of their return to Nantucket.
 
-## SURVIVAL AT SEA
+# Basic Survival Tips
 'If hope is out there, hope can get you through.'  
 -NASA Astronaut Jerry Linenger, who spent months stranded on the Russian Space Station
 
@@ -1526,9 +1524,7 @@ Finally, on May 1, 2003, he did the unthinkable, first using the boulder to leve
 He survived, wrote a best-selling book about his experience ( Between a Rock and a Hard Place ), and continues to climb. He later admitted that his big mistake was not telling anyone where he was going.  
 Canyonlands National Park, Utah
 
-## BASIC SURVIVAL TIPS
-8
-
+# Water
 Getting lost or stranded in the wild is something that can happen to anyone, whether you're a Navy SEAL, experienced outdoorsmen, hiker, tourist, or just someone out for a weekend drive. Anybody can be forced to deal with circumstances beyond their control, alone and lost, with only their wits to rely on for survival.  
 The human body is composed of up to seventy-eight percent water. So it's no surprise that the single-most important thing you need to live is not food; it's water. The good news is that if you're resourceful and know where to look, you can find or collect good drinking water in just about any environment on earth.  
 The Institute of Medicine currently recommends a daily intake of approximately 2 to 2 ½ quarts of water to replace the water lost through normal body functions-urination, defecation, breathing, and sweating. All of the chemical and electrical activities that take place in the human body take place in a water environment; when water is in short supply, these activities begin to malfunction.  
@@ -1658,6 +1654,7 @@ The LifeStraw is a portable filtration device that enables you to safely drink d
 source. Each LifeStraw lasts for 185 gallons, roughly the amount of water needed for one person per year.  
 The filter is designed to eliminate 100 percent of waterborne bacteria, almost ninety-nine percent of viruses, and particles as small as fifteen microns.
 
+# Shelters and Fire
 'On the occasion of every accident that befalls you, remember to turn to yourself and inquire what power you have for turning it to use.'
 
 ## Shelters
@@ -1818,7 +1815,7 @@ Having selected a likely area in which to dig the fire hole, first remove a plug
 of the food preparation lesson at a training site in Warner Springs, Calif.  
 - Pit fire
 
-## SHELTER AND FIRE
+# Food and Hunting
 'Luck favors the prepared mind.'
 
 Since food ranks third on the basic survival skills priorities list, don't worry about looking for food until you have a good water source and adequate shelter.  
@@ -2137,7 +2134,7 @@ Refine skills, do research on mammals/trapping/plants, and wait for spring
 As you can see, summer and fall offer a bounty of resources, especially in terms of nuts, acorns, and plant resources compared with winter and spring. I would encourage you to formulate your own region-specific calendar.  
 As your skills progress and you become more proficient at hunting and gathering, you will realize that what seems, at first glance, to be an inhospitable landscape is in reality a generous land that will sustain those who know where and, most important, how to look.
 
-## FOOD AND HUNTING
+# Weather
 'Everybody talks about the weather, but no one does anything about it.'
 
 Whether we realize it or not, most of us subconsciously 'forecast' the weather. Say you look outside and see dark clouds approaching. Chances are you'll grab your rain gear as you walk out the door. If you're out on a trail run and are suddenly hit by a gust of wind, you're likely to glance up at the sky to look for other signs of ominous weather.  
@@ -2358,6 +2355,7 @@ Note changes or trends in weather conditions.
 - Humidity decreases
 - Increasing barometric pressure
 
+# Navigation
 - Mt. Laguna, Calif-Students from Basic Underwater Demolition/SEAL (BUD/S) class 284 participate in a land navigation training exercise. Land navigation familiarizes students with map and compass navigation in the third and final phase of BUD/S training.  
 A Survival, Evasion, Resistance and Escape (SERE) instructor from the Center For Security Forces teaches students to identify which direction to travel using a map and compass during the land navigation training at a training site in Warner Springs, Calif.  
 Whether you're a SEAL on a mission or just trekking through the wild, it's always important to plan a primary and a secondary route in to and out of the area. When you plan, be sure to plan for contingencies. Consider the fitness levels and the condition of the people with you as well as the possible problems you might encounter.
@@ -2499,6 +2497,7 @@ In rural areas, look for patches of garlic, ransom, and mint. You might try cove
 - Peppermint  
 Garlic
 
+# Survival Medicine
 'A cheerful heart is good medicine, but a crushed spirit dries up the bones.'
 
 It goes without saying that medical problems can severely impact your ability to survive in the wilderness. There's nothing more discouraging than being in a survival situation and not having the supplies or, more importantly, the knowledge to be able to treat yourself or a teammate.  
@@ -2685,6 +2684,7 @@ Elevate the bite if it is on a leg, or use a sling for an arm bite.
 Seek medical attention as soon as possible; don't panic.  
 Antivenin can be administered as much as twenty-four hours after a bite. Remember what the snake looked like to help identify the right antivenin.
 
+# Survival Kits
 'Luck is where the crossroads of preparation and opportunity meet.'
 
 What to pack in your survival kit when your life might depend on it? The answer to this question depends on several contingencies-where you're going, the terrain, climate, the amount you can comfortably carry, and the expected length of the trip.  
@@ -2971,7 +2971,7 @@ Whatever it is you decide to pack for use during a survival situation, the follo
 - I have found that battery-operated chemlights are better for survival situations than the disposable, one-time-use  
 chemlights. However, I also pack a couple of infrared chemlights that are one-time use but very good for tactical signaling.
 
-## SURVIVAL KITS
+# The Mystery of Survival
 'We had suffered, starved and triumphed, groveled down yet grasped at glory . . .  
 We had reached the naked soul of man.'  
 -Sir Ernest Shackleton
@@ -3033,14 +3033,3 @@ By all accounts, he was the last person to escape the South Tower of the World T
 
 Fabled climber Reinhold Messner, who has experienced more than one encounter with the Third Man, believes it's a natural phenomenon produced by the brain. 'I think all human beings would have the same or similar feelings if they would expose themselves to such precarious situations,' he explained. 'The body is inventing ways to let the person survive.'  
 Whether you believe that the Third Man is an angel or some sort of hallucination produced by the mind under extreme stress, there's no doubt that Ron DiFrancesco, Frank Smyth, Sir Ernest Shackelton, Reinhold Messner, and Juliane Koepcke had one thing in common-an indomitable will to survive.
-
-## THE MYSTERY OF SURVIVAL
-As a Training Officer in the Navy SEAL Teams I had the responsibility and great fortune of instructing SEALs in Desert Survival, Jungle Survival, Arctic Survival, Mountain Survival, Sea Survival and Urban Survival. In the SEAL teams, we not only trained ourselves, but quite often would reach out to other professionals, such as the individuals listed below to instruct us.  
-In The Navy SEAL Survival Handbook I not only included much of the survival information that I instructed in the SEAL teams, but I also reached out to the professionals who live and breathe 'survival' on a daily basis. I am truly indebted to these world renowned survival experts who contributed a wealth of information to this book.
-
-Dr. Jessen, a former leading Psychologist for the Joint Services Survival, Evasion, Resistance, and Escape (SERE) Course at Fairchild AFB, WA. He is a world renown, leading authority on the topic of survival during captivity. Dr. Jessen contributed his paper on RESILIENCE: CAN THE WILL TO SURVIVE BE LEARNED? Dr. Jessen spent most of his professional career better preparing our military with skills and techniques on how to survive in governmental or non-governmental captivity.
-
-http://www.apathways.com/media/course-picts/index.html  
-Tony owns and instructs at Ancient Pathways in Desert Wilderness Survival, Primitive Skills, and Bush-craft, and is a regular contributor to Outside Magazine. Tony has shared his wealth of knowledge with civilians, the Navy SEAL Teams, other members of the Special Operations community, and with many other military organizations. He is the most sought after Desert Survival instructor in North America. Tony provided us with a great deal of information on desert survival issues such as water procurement, flash floods, edible plants, trapping, recommended clothing and foot wear, food procurement and survival kit lists.  
-David Ayres
-

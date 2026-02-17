@@ -17,7 +17,7 @@ EMBEDDING_MODEL_NAME = 'bge-m3'
 
 def split_text(folder_path):
 
-    # 1. Define Hierarchy (The Logical Splitter)
+    # 1. Define Hierarchy
     headers_to_split_on = [
         ("#", "H1"),
         ("##", "H2"),
@@ -30,43 +30,51 @@ def split_text(folder_path):
         chunk_size=TARGET_CHUNK_SIZE,
         chunk_overlap=CHUNK_OVERLAP,
         length_function=len,
-        # Priority: Split by paragraph -> new line -> sentence -> word
         separators=["\n\n", "\n", ". ", " ", ""] 
     )
 
     final_docs = []
-    original_chunks = 0
     print(f"Processing corpus from {folder_path}...")
+    
     for filepath in glob.glob(os.path.join(folder_path, "*.md")):
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
 
         # PASS 1: Split by Logic (Headers)
-        # Result: [Document(page_content="...", metadata={'H1': 'Fire', 'H2': 'Starting Methods'})]
         header_splits = markdown_splitter.split_text(content)
-        original_chunks += len(header_splits)
 
-        # PASS 2: Split by Size (Recursive)
-        # We iterate through the logical chunks. If they are small, we keep them.
-        # If they are big, we split them further but COPY the metadata down.
+        # PASS 2: Split by Size (Recursive) & PREPEND CONTEXT
         for split in header_splits:
-            # Appends source filename to metadata for citation later
+            # Add filename source
             split.metadata["source"] = os.path.basename(filepath)
 
-            if len(split.page_content) > TARGET_CHUNK_SIZE:
-                # This is a mega-chunk. Split it further.
-                recursive_chunks = text_splitter.split_documents([split])
-                final_docs.extend(recursive_chunks)
+            # Build a header string from metadata, e.g., "Manual > Safety > Fire"
+            header_context = []
+            for level in ["H1", "H2", "H3"]:
+                if level in split.metadata:
+                    header_context.append(split.metadata[level])
+            
+            # Create a context string to prepend
+            if header_context:
+                context_str = " > ".join(header_context) + "\n---\n"
             else:
-                # This chunk is already a good size. Keep it.
+                context_str = ""
+
+            # Check if we need to split further
+            if len(split.page_content) > TARGET_CHUNK_SIZE:
+                recursive_chunks = text_splitter.split_documents([split])
+                
+                # Update EACH sub-chunk to include the header context
+                for sub_chunk in recursive_chunks:
+                    sub_chunk.page_content = context_str + sub_chunk.page_content
+                    final_docs.append(sub_chunk)
+            else:
+                # Add context to the single chunk
+                split.page_content = context_str + split.page_content
                 final_docs.append(split)
 
-    print("-" * 30)
-    print(f"Original Chunks (Logical): {original_chunks}")
-    print(f"Final Chunks (Physical):   {len(final_docs)}")
-    print("-" * 30)
-
     return final_docs
+
 
 def create_vector_store(docs):
     """
@@ -84,7 +92,6 @@ def create_vector_store(docs):
     
     embeddings = OllamaEmbeddings(
         model=EMBEDDING_MODEL_NAME,
-        base_url="http://127.0.0.1:11434"
     )
 
     print('Initializing vector store...')
@@ -92,7 +99,8 @@ def create_vector_store(docs):
     vectorstore = Chroma(
         collection_name="rag_corpus_bge",
         embedding_function=embeddings,
-        persist_directory=VECTOR_STORE_PATH
+        persist_directory=VECTOR_STORE_PATH,
+        collection_metadata={"hnsw:space": "cosine"}
     )
 
     BATCH_SIZE = 128
